@@ -1,17 +1,18 @@
-## BLOG PERSONAL
+# BLOG PERSONAL
 
 
-# Resumen de biografía
+## Resumen de biografía
 
 Mi Nombre es Kevin Josue Gómez Naula tengo 21 años de edad, soy de guayaquil soy el mayor de 2 hermanos; mis pasa tiempos son practicar deportes, leer, jugar videojuegos móviles, me gusta escuchar música electrónica, odio que la gente sea impuntual no me gusta esperar demasiado tiempo, de vez en cuando comparto tiempo con mis amigos como manera de distracción.
 
-# Mis estudios
+## Mis estudios
 
 Primaria “unidad educativa particular mixta San Juan Bautista”
 
 Secundaria “unidad educativa fiscal Carlos Julio Arosemena Tola”
 
-# Header 3
+## Temas de interés
+
 ### Ciberseguridad como prioridad en las empresas
 La ciberseguridad seguirá siendo una cuestión primordial en las empresas. Como durante el año pasado, seguirá influyendo de forma transversal y sobre todo protegiendo ante amenazas externas. Es un componente de suma importancia, que requiere de muchos factores, desde el cumplimiento de la ley de datos, a la conciencia de los empleados para no “picar” en las diferentes técnicas que nos amenazan (como el phishing), así como la revisión exhaustiva de código y de la configuración de infraestructura tecnológica.
 
@@ -27,23 +28,3 @@ MinIO es un Cloud Storage compatible con Amazon S3 y liberado por Apache. Desarr
 
 Microsoft también lo ha añadido en Azure marketplace con el slogan: “Providing Amazon S3 API compatible data access for Azure Blob Storage Services”. Solo falta que Google Cloud lo incorpore y MinIO daría un gran paso en facilitar entorno Multi-Cloud.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KEVIN-GOMEZ-N/BLOG-PERSONAL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
